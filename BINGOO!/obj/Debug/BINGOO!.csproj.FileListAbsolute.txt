@@ -1,0 +1,10 @@
+C:\Users\minga\source\repos\BINGOO!\bin\Debug\BINGOO!.exe.config
+C:\Users\minga\source\repos\BINGOO!\bin\Debug\BINGOO!.exe
+C:\Users\minga\source\repos\BINGOO!\bin\Debug\BINGOO!.pdb
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO!.csproj.AssemblyReference.cache
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO_.Form1.resources
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO_.Properties.Resources.resources
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO!.csproj.GenerateResource.cache
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO!.csproj.CoreCompileInputs.cache
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO!.exe
+C:\Users\minga\source\repos\BINGOO!\obj\Debug\BINGOO!.pdb
